@@ -1,0 +1,12 @@
+# Counting words in file input.txt
+~$ ./myWc -w input.txt
+777 input.txt
+# Counting lines in files input2.txt and input3.txt
+~$ ./myWc -l input2.txt input3.txt
+42 input2.txt
+53 input3.txt
+# Counting characters in files input4.txt, input5.txt and input6.txt
+~$ ./myWc -m input4.txt input5.txt input6.txt
+1337 input4.txt
+2664 input5.txt
+3991 input6.txt

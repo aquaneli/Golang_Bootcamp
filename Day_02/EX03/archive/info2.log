@@ -1,0 +1,3 @@
+# Will create file /path/to/logs/some_application_1600785299.tag.gz
+# where 1600785299 is a UNIX timestamp made from `some_application.log`'s [MTIME](https://linuxize.com/post/linux-touch-command/)
+
